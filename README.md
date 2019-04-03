@@ -7,8 +7,19 @@ Cypress需要安装在本地，调用浏览器自动运行一些integration测�
 
 ```
 npm install
-npm test
+npm run test:open
 ```
+
+将打开cypress相应的浏览器，以可视的方式运行测试。
+
+or 
+
+```
+npm run test:run
+```
+
+将在后台执行测试，还会在`cypress/videos`下，生成相应的视频！
+
 
 ![demo1](./images/demo1.png)
 

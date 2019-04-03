@@ -1,6 +1,7 @@
 {
   "scripts": {
-    "test": "cypress open"
+    "test:open": "cypress open",
+    "test:run": "cypress run"
   },
   "devDependencies": {
     "cypress": "1.4.2"
