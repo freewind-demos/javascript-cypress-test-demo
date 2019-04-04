@@ -1,4 +1,4 @@
-JavaScript Cypress Integration Test Demo
+JavaScript Cypress Test Demo
 ==========================================
 
 Cypress需要安装在本地，调用浏览器自动运行一些integration测试。
